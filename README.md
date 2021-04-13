@@ -5,6 +5,6 @@ To run the simulator first setup the environmet using the command below:
 ```
 Now you should run the benchmark. I have put the Matrix matrix multplication benchmark in the main directory so just run this:
 ```
-4. ./mal
+3. ./mal
 ```
 I have changed  ```/src/gpgpusim/gpu-sim.cc``` and ```/src/gpgpusim/gpu-sim.h``` and ```/src/gpgpusim/shader.cc``` files. 
