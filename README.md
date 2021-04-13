@@ -7,4 +7,4 @@ Now you should run the benchmark. I have put the Matrix matrix multplication ben
 ```
 4. ./mal
 ```
-The changes I have made are inside ```gpu-sim.cc``` and ```gpu-sim.h``` and ```shader.cc``` files. 
+I have changed  ```/src/gpgpusim/gpu-sim.cc``` and ```/src/gpgpusim/gpu-sim.h``` and ```/src/gpgpusim/shader.cc``` files. 
